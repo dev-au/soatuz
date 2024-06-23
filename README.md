@@ -1,5 +1,7 @@
 # Soat UZ News Publisher in Django and Django Rest Framework
 
+Sample Frontend Page > https://github.com/dev-au/soatuz/tree/frontend
+
 ## Feature URLs
 
 1. *news/all-categories* - Get all news category
