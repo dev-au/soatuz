@@ -1,3 +1,10 @@
-Django~=5.0.6
-djangorestframework~=3.15.2
-django-filter~=24.2
+asgiref==3.8.1
+Django==5.0.6
+django-cors-headers==4.4.0
+django-filter==24.2
+djangorestframework==3.15.2
+pillow==10.3.0
+PyJWT==2.8.0
+sqlparse==0.5.0
+typing_extensions==4.12.2
+tzdata==2024.1
