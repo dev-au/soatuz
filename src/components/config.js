@@ -1,4 +1,4 @@
-export const API_DOMAIN = 'http://127.0.0.1:8006/'
+export const API_DOMAIN = 'http://194.32.77.65:8006/'
 export const Youtube = 'https://www.youtube.com/news_page'
 export const Telegram = 'https://t.me/news_page'
 export const X = 'https://x.com/news_page'
