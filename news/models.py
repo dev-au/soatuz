@@ -4,7 +4,7 @@ from django.db.models import Count
 
 
 class NewsCategory(models.Model):
-    title = models.CharField(max_length=100)
+    title = models.CharField(max_length=50)
     slug = models.SlugField(unique=True)
 
     def __str__(self):
